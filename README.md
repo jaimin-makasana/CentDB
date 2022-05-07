@@ -1,0 +1,2 @@
+# CentDB
+CentDB is a simple centralized database management system. It extends the data structure concepts for creating the databases, management system, and security. In addition, an analytics engine is there to perform basic data analytics. The database management system layer provides a command-line interface, and perform various functionalities of database management system.
